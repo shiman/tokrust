@@ -1,3 +1,3 @@
+#[macro_use]
+extern crate lazy_static;
 pub mod treebank;
-
-pub use treebank::TreebankTokenizer;
